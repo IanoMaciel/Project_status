@@ -1,0 +1,21 @@
+body {
+	background-image: linear-gradient(to right, #80FF00, #00FFFF);
+}
+
+.ajuste-tela {
+	margin-top: 160px;
+}
+
+.navbar-right>li>a:visited
+{
+	color: white;
+	border-radius: 40px;
+	background: none;
+}
+  
+.navbar-right>li>a:hover
+{
+	color: white;
+	border-radius: 40px;
+	background: none;
+}
